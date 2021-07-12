@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=nelson.otazo.com.py&style=for-the-badge&url=https%3A%2F%2Fnelson.otazo.com.py)](website)
 [![Twitter Follow](https://img.shields.io/twitter/follow/norotaro_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnorotaro&screen_name=norotaro_dev)
 
-## I'm a Husband, Father, and Developer!
+## I'm a Husband, Father and Developer!
 
 - :rocket: I just launched my first open source library: [Guardian plugin for WinterCMS!][guardian-plugin]!
 - :seedling: I'm currently improving my English
@@ -11,10 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nelson.otazo.com.py" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="norotaro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="norotaro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="norotaro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="norotaro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -44,6 +45,7 @@
 [twitter]: https://twitter.com/norotaro_dev
 [linkedin]: https://www.linkedin.com/in/nelson-otazo/
 [instagram]: https://www.instagram.com/nelsonotazo/
+[stackoverflow]: https://stackoverflow.com/users/5227804/nelson-otazo
 [visualstudio]: https://code.visualstudio.com/
 [php]: https://www.php.net/
 [javascript]: https://www.javascript.com/
