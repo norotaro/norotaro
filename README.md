@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father and Developer!
 
-- :rocket: I just launched my first open source library: [Guardian plugin for WinterCMS!][guardian-plugin]!
+- :rocket: I have some open source library like this: [Guardian plugin for WinterCMS!][guardian-plugin]!
 - :seedling: I'm currently improving my English
 - :heavy_check_mark: Fun fact: I love to play ping pong and chess
 
